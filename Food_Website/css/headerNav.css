@@ -1,0 +1,44 @@
+header {
+  background: linear-gradient(to right, #ff9933, #138808);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+header h1 span {
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cart-button {
+  background: #fff;
+  color: #138808;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.cart-number {
+  background: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  margin-left: 5px;
+}
