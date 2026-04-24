@@ -22,7 +22,7 @@ This project focuses on delivering a clean and intuitive UI for an online food o
 
 ## 🚀 Live Demo
 
-👉 https://example.com
+👉 https://food-ordering-website-blue.vercel.app/
 
 ---
 
