@@ -1,0 +1,16 @@
+#about {
+  padding: 60px 20px;
+  background: #fff;
+  text-align: center;
+}
+.about-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+.about-details div {
+  background: #f4f4f4;
+  padding: 15px;
+  border-radius: 10px;
+}
